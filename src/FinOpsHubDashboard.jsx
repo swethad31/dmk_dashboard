@@ -592,7 +592,7 @@ export default function FinOpsHubDashboard() {
                     <div className="text-lg font-bold text-slate-800">
                       <Money value="$3,354" />
                     </div>
-                    <div className="text-xs text-slate-400">across 38 total</div>
+                    <div className="text-xs text-slate-400">across 40 total</div>
                   </div>
                   <div>
                     <div className="text-xs text-slate-500">Pending value</div>
